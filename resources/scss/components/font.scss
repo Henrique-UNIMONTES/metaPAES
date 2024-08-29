@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('./../font/Montserrat.ttf');
+}
+
+.ff-montserrat {
+    font-family: var(--text-font-family);
+}
+
+.text-justify {
+    text-align: justify;
+}

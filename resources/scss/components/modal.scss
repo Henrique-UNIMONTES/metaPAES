@@ -1,0 +1,36 @@
+.modal-item {
+    box-shadow: 0px 0px 10px 0px rgba(0, 0, 0, 0.4);
+}
+
+.modal-item.await {
+    background-color: var(--bs-gray-300);
+}
+
+.modal-item.open {
+    background-color: rgb(220, 255, 220);
+}
+
+.modal-item.closed {
+    background-color: rgb(255, 220, 220);
+}
+
+.modal-item .open {
+    font-size: .8rem;
+    color: rgb(20, 70, 20);
+}
+
+.modal-item .closed {
+    font-size: .8rem;
+    color: red;
+}
+
+.modal-item .await {
+    font-size: .8rem;
+    color: var(--bs-dark);
+}
+
+@media (max-width: 425px) {
+    .date-separator {
+        display: none;
+    }
+}

@@ -1,0 +1,15 @@
+Mova o mouse para olhar em volta.
+
+Utilize as teclas W, A, S, D para se movimentar.
+
+Aperte ESPAÇO para pular.
+
+Segure SHIFT enquanto se movimenta para correr.
+
+Utilize a tecla E para abrir as portas.
+
+A tecla P para pausar o jogo.
+
+A porta para a próxima sala se abrirá quando o campo de diálogo se fechar.  
+
+Ótimo! Agora que nos situamos, continue para a próxima sala.

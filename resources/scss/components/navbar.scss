@@ -1,0 +1,22 @@
+.nav-link {
+    transition: .2s;
+    border-bottom: 2px solid transparent;
+}
+
+.nav-link:hover {
+    border-bottom: transparent solid 2px;
+}
+
+@media (min-width: 768px) {
+    .nav-link:hover {
+        border-bottom: var(--secundary-color) solid 2px;
+    }
+}
+
+@media (max-width: 425px) {
+    .navbar-brand {
+        img {
+            width: 75%;
+        }
+    }
+}
